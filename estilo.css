@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Consolas";
+  src: url("fonts/consolas.woff");
+}
+
+html {
+	margin: 60px;
+ 	background-color: #f2f2ed;
+  	font-family: sans-serif;
+	font-size: x-large;
+ 	line-height: 500%;
+ 	text-align: justify;
+}
